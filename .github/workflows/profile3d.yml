@@ -1,0 +1,17 @@
+name: 🧊 3D contributions
+on:
+  schedule: [{ cron: "0 18 * * 0" }]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          username: The-Thought-Magician
+      - uses: actions/upload-artifact@v4
+        with:
+          name: profile-3d
+          path: ./*
