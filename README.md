@@ -159,12 +159,12 @@ Other pursuits: Filmmaking (managed InterIIT events at IIT KGP), art (5 years fo
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-Thought-Magician&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=The-Thought-Magician&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Thought-Magician&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=The-Thought-Magician&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Thought-Magician&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Thought-Magician&layout=compact&hide_border=true&langs_count=10" />
 </p>
 
 ---
