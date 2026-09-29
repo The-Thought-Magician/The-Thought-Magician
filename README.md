@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=The-Thought-Magician&style=flat-square&color=6C63FF" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/The-Thought-Magician?style=flat-square&color=6C63FF" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Repos-148+-6C63FF?style=flat-square" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Public_Repos-43-6C63FF?style=flat-square" alt="Public repos"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@ I turn cutting-edge research into production-ready systems. Obsessed with making
 
 ### Building
 
-- **148** repositories (and counting)
+- **43** public repositories
 - **10+** production systems shipped
 - **5+** AI agent architectures deployed
 - Daily open source contributions
@@ -93,6 +93,76 @@ I turn cutting-edge research into production-ready systems. Obsessed with making
 - **Generative UI** - AI-driven interface generation
 
 </details>
+
+---
+
+## Public Repositories
+
+<sub>43 public repos · status as of 2026-09-29, based on last push</sub>
+
+### Active (5)
+
+<sub>pushed in the last 30 days</sub>
+
+| Repo | What it is | Language | Type | Last push |
+|---|---|---|---|---|
+| [`room-valuation`](https://github.com/The-Thought-Magician/room-valuation) | Scan a room, list and price every item (books by spine), measure the floor, and total the insured value. Local models + a frontier model + the owner's voice notes, ranked by Jev. | Python | original | 2026-09-27 |
+| [`floorplan-takehome`](https://github.com/The-Thought-Magician/floorplan-takehome) | Dimensioned floor plans from phone captures | Python | original | 2026-09-20 |
+| [`airlock`](https://github.com/The-Thought-Magician/airlock) ⭐4 | Sandboxed MCP runtime — run any MCP server inside a Solari sandbox with filesystem and network boundaries enforced structurally | TypeScript | original | 2026-09-10 |
+| [`claude-chat-archive`](https://github.com/The-Thought-Magician/claude-chat-archive) | Export and archive your Claude.ai conversations as Markdown + JSON, straight from the browser. Works on Enterprise, where the built-in export isn't available. | Python | original | 2026-09-05 |
+| [`clawdeck`](https://github.com/The-Thought-Magician/clawdeck) · [live](https://clawdeck.io) | Open source mission control for your OpenClaw agents 🦞 | HTML | fork | 2026-09-03 |
+
+### Recent (19)
+
+<sub>pushed in the last 6 months</sub>
+
+| Repo | What it is | Language | Type | Last push |
+|---|---|---|---|---|
+| [`invoice-extract`](https://github.com/The-Thought-Magician/invoice-extract) | Reads header fields off Indian GST tax invoices. Routes to human review using deterministic rules, grounding and run agreement, never model confidence. | TypeScript | original | 2026-08-16 |
+| [`docs`](https://github.com/The-Thought-Magician/docs) | Vapi docs | MDX | fork | 2026-07-27 |
+| [`vendor-price-increase-defense-desk`](https://github.com/The-Thought-Magician/vendor-price-increase-defense-desk) | — | TypeScript | original | 2026-07-03 |
+| [`training-data-rights-clearance-ledger`](https://github.com/The-Thought-Magician/training-data-rights-clearance-ledger) | — | TypeScript | original | 2026-07-03 |
+| [`security-questionnaire-answer-bank`](https://github.com/The-Thought-Magician/security-questionnaire-answer-bank) ⭐1 | Answer every buyer security questionnaire once, keep answers approved and current, and return CAIQ/SIG spreadsheets in hours | TypeScript | original | 2026-07-03 |
+| [`rohs-reach-substance-declaration-ledger`](https://github.com/The-Thought-Magician/rohs-reach-substance-declaration-ledger) · [live](https://rohs-reach-substance-declaration-le.vercel.app) | — | TypeScript | original | 2026-07-03 |
+| [`payment-page-script-integrity-register`](https://github.com/The-Thought-Magician/payment-page-script-integrity-register) · [live](https://payment-page-script-integrity-regis.vercel.app) | — | TypeScript | original | 2026-07-03 |
+| [`interchange-leakage-auditor`](https://github.com/The-Thought-Magician/interchange-leakage-auditor) | Re-derive optimal interchange category per card transaction and flag costly downgrades | TypeScript | original | 2026-07-03 |
+| [`email-deliverability-revenue-guard`](https://github.com/The-Thought-Magician/email-deliverability-revenue-guard) · [live](https://email-deliverability-revenue-guard.vercel.app) | — | TypeScript | original | 2026-07-03 |
+| [`cross-border-transfer-mechanism-register`](https://github.com/The-Thought-Magician/cross-border-transfer-mechanism-register) | — | TypeScript | original | 2026-07-03 |
+| [`comp-band-equity-auditor`](https://github.com/The-Thought-Magician/comp-band-equity-auditor) | Find who's underpaid relative to band, flag pay-gap exposure, produce board-ready remediation budget | TypeScript | original | 2026-07-03 |
+| [`ai-act-classification-desk`](https://github.com/The-Thought-Magician/ai-act-classification-desk) | EU AI Act risk-tier classification and conformity | TypeScript | original | 2026-07-03 |
+| [`access-recert-campaign-runner`](https://github.com/The-Thought-Magician/access-recert-campaign-runner) | Run the periodic user-access review auditors demand as a real campaign with line-by-line attestation and proven revocation | TypeScript | original | 2026-07-03 |
+| [`foodpaaji`](https://github.com/The-Thought-Magician/foodpaaji) · [live](https://foodpaaji.vercel.app) | A restraunt management system with complete package. | TypeScript | original | 2026-06-21 |
+| [`music-gen-lib`](https://github.com/The-Thought-Magician/music-gen-lib) ⭐3 | — | Python | original | 2026-05-30 |
+| [`convaix-app`](https://github.com/The-Thought-Magician/convaix-app) | — | Python | original | 2026-05-12 |
+| [`travel-planner-india`](https://github.com/The-Thought-Magician/travel-planner-india) | — | Python | original | 2026-05-03 |
+| [`adaptiveAgent`](https://github.com/The-Thought-Magician/adaptiveAgent) | — | TypeScript | fork | 2026-04-30 |
+| [`ai-job-search`](https://github.com/The-Thought-Magician/ai-job-search) | AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. | TypeScript | fork | 2026-04-29 |
+
+### Dormant (19)
+
+<sub>no push in over 6 months</sub>
+
+| Repo | What it is | Language | Type | Last push |
+|---|---|---|---|---|
+| [`indian-classical-music-analysis`](https://github.com/The-Thought-Magician/indian-classical-music-analysis) | Comprehensive analysis of AI-generated Indian classical music composition issues, spanning composition quality, MIDI limitations, sound design, and cultural authenticity | — | original | 2026-01-17 |
+| [`browser-use`](https://github.com/The-Thought-Magician/browser-use) · [live](https://browser-use.com) | 🌐 Make websites accessible for AI agents. Automate tasks online with ease. | Python | fork | 2025-12-26 |
+| [`unicorn-content`](https://github.com/The-Thought-Magician/unicorn-content) | — | Python | original | 2025-11-26 |
+| [`unabandonai`](https://github.com/The-Thought-Magician/unabandonai) · [live](https://unabandonai.vercel.app) | — | TypeScript | original | 2025-11-26 |
+| [`puchai-mcp-hack`](https://github.com/The-Thought-Magician/puchai-mcp-hack) | — | Python | original | 2025-11-26 |
+| [`ghl-mcp-app`](https://github.com/The-Thought-Magician/ghl-mcp-app) ⭐1 | a custom made mcp solution for all available api endpoints. | Python | original | 2025-11-26 |
+| [`llm-app`](https://github.com/The-Thought-Magician/llm-app) · [live](https://pathway.com/developers/templates/) | Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more. | Jupyter Notebook | fork | 2025-11-26 |
+| [`LibreChat`](https://github.com/The-Thought-Magician/LibreChat) · [live](https://librechat.ai/) | Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project. | TypeScript | fork | 2025-11-26 |
+| [`serpermcp`](https://github.com/The-Thought-Magician/serpermcp) | — | Python | original | 2025-11-07 |
+| [`tambo-cloud`](https://github.com/The-Thought-Magician/tambo-cloud) · [live](https://tambo.co) | — | TypeScript | fork | 2025-11-01 |
+| [`The-Thought-Magician.github.io`](https://github.com/The-Thought-Magician/The-Thought-Magician.github.io) | — | — | original | 2025-08-16 |
+| [`planning`](https://github.com/The-Thought-Magician/planning) · [live](https://planning-swart.vercel.app) | — | TypeScript | original | 2025-08-16 |
+| [`puch`](https://github.com/The-Thought-Magician/puch) · [live](http://puch.ai) | Starter code to add MCPs to Puch AI #BuildWithPuch | TypeScript | fork | 2025-08-09 |
+| [`searxng`](https://github.com/The-Thought-Magician/searxng) · [live](https://docs.searxng.org) | SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. | Python | fork | 2025-07-22 |
+| [`enhanced-browser-mcp`](https://github.com/The-Thought-Magician/enhanced-browser-mcp) ⭐1 | Revolutionary AI-Powered Token Limit Solution for Universal Web Automation - Enhanced version of BrowserMCP | TypeScript | original | 2025-06-22 |
+| [`HLO`](https://github.com/The-Thought-Magician/HLO) | Build a distributed inference system for medical LLMs that:  Serves multiple disease-specific LoRA adapters with dynamic loading  Implements FP6 quantization with custom CUDA kernels  Uses speculative decoding with a draft model  Implements disaggregated prefill/decode phases with intelligent caching  Provides comprehensive performance metrics | — | original | 2025-06-15 |
+| [`FAgent`](https://github.com/The-Thought-Magician/FAgent) | Replication of the FINCON paper | Python | fork | 2025-05-17 |
+| [`AIresearch`](https://github.com/The-Thought-Magician/AIresearch) · [live](https://the-thought-magician.github.io/AIresearch/) | — | CSS | original | 2025-04-25 |
+| [`task-manager`](https://github.com/The-Thought-Magician/task-manager) | — | TypeScript | original | 2025-02-23 |
 
 ---
 
