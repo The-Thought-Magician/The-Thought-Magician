@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=The-Thought-Magician&style=flat-square&color=6C63FF" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/The-Thought-Magician?style=flat-square&color=6C63FF" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Public_Repos-43-6C63FF?style=flat-square" alt="Public repos"/>
+  <img src="https://img.shields.io/badge/Public_Repos-33-6C63FF?style=flat-square" alt="Public repos"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@ I turn cutting-edge research into production-ready systems. Obsessed with making
 
 ### Building
 
-- **43** public repositories
+- **33** public repositories
 - **10+** production systems shipped
 - **5+** AI agent architectures deployed
 - Daily open source contributions
@@ -98,9 +98,9 @@ I turn cutting-edge research into production-ready systems. Obsessed with making
 
 ## Public Repositories
 
-<sub>43 public repos · status as of 2026-09-29, based on last push</sub>
+<sub>33 public repos · status as of 2026-09-29, based on last push</sub>
 
-### Active (5)
+### Active (6)
 
 <sub>pushed in the last 30 days</sub>
 
@@ -108,11 +108,12 @@ I turn cutting-edge research into production-ready systems. Obsessed with making
 |---|---|---|---|---|
 | [`room-valuation`](https://github.com/The-Thought-Magician/room-valuation) | Scan a room, list and price every item (books by spine), measure the floor, and total the insured value. Local models + a frontier model + the owner's voice notes, ranked by Jev. | Python | original | 2026-09-27 |
 | [`floorplan-takehome`](https://github.com/The-Thought-Magician/floorplan-takehome) | Dimensioned floor plans from phone captures | Python | original | 2026-09-20 |
+| [`unring`](https://github.com/The-Thought-Magician/unring) | Recall: an undo agent for other agents. Audits what an agent run changed across Slack, Notion, GitHub and Linear, reverses what the task never authorized, and phones a human for the rest. | TypeScript | original | 2026-09-14 |
 | [`airlock`](https://github.com/The-Thought-Magician/airlock) ⭐4 | Sandboxed MCP runtime — run any MCP server inside a Solari sandbox with filesystem and network boundaries enforced structurally | TypeScript | original | 2026-09-10 |
 | [`claude-chat-archive`](https://github.com/The-Thought-Magician/claude-chat-archive) | Export and archive your Claude.ai conversations as Markdown + JSON, straight from the browser. Works on Enterprise, where the built-in export isn't available. | Python | original | 2026-09-05 |
 | [`clawdeck`](https://github.com/The-Thought-Magician/clawdeck) · [live](https://clawdeck.io) | Open source mission control for your OpenClaw agents 🦞 | HTML | fork | 2026-09-03 |
 
-### Recent (19)
+### Recent (8)
 
 <sub>pushed in the last 6 months</sub>
 
@@ -120,17 +121,6 @@ I turn cutting-edge research into production-ready systems. Obsessed with making
 |---|---|---|---|---|
 | [`invoice-extract`](https://github.com/The-Thought-Magician/invoice-extract) | Reads header fields off Indian GST tax invoices. Routes to human review using deterministic rules, grounding and run agreement, never model confidence. | TypeScript | original | 2026-08-16 |
 | [`docs`](https://github.com/The-Thought-Magician/docs) | Vapi docs | MDX | fork | 2026-07-27 |
-| [`vendor-price-increase-defense-desk`](https://github.com/The-Thought-Magician/vendor-price-increase-defense-desk) | — | TypeScript | original | 2026-07-03 |
-| [`training-data-rights-clearance-ledger`](https://github.com/The-Thought-Magician/training-data-rights-clearance-ledger) | — | TypeScript | original | 2026-07-03 |
-| [`security-questionnaire-answer-bank`](https://github.com/The-Thought-Magician/security-questionnaire-answer-bank) ⭐1 | Answer every buyer security questionnaire once, keep answers approved and current, and return CAIQ/SIG spreadsheets in hours | TypeScript | original | 2026-07-03 |
-| [`rohs-reach-substance-declaration-ledger`](https://github.com/The-Thought-Magician/rohs-reach-substance-declaration-ledger) · [live](https://rohs-reach-substance-declaration-le.vercel.app) | — | TypeScript | original | 2026-07-03 |
-| [`payment-page-script-integrity-register`](https://github.com/The-Thought-Magician/payment-page-script-integrity-register) · [live](https://payment-page-script-integrity-regis.vercel.app) | — | TypeScript | original | 2026-07-03 |
-| [`interchange-leakage-auditor`](https://github.com/The-Thought-Magician/interchange-leakage-auditor) | Re-derive optimal interchange category per card transaction and flag costly downgrades | TypeScript | original | 2026-07-03 |
-| [`email-deliverability-revenue-guard`](https://github.com/The-Thought-Magician/email-deliverability-revenue-guard) · [live](https://email-deliverability-revenue-guard.vercel.app) | — | TypeScript | original | 2026-07-03 |
-| [`cross-border-transfer-mechanism-register`](https://github.com/The-Thought-Magician/cross-border-transfer-mechanism-register) | — | TypeScript | original | 2026-07-03 |
-| [`comp-band-equity-auditor`](https://github.com/The-Thought-Magician/comp-band-equity-auditor) | Find who's underpaid relative to band, flag pay-gap exposure, produce board-ready remediation budget | TypeScript | original | 2026-07-03 |
-| [`ai-act-classification-desk`](https://github.com/The-Thought-Magician/ai-act-classification-desk) | EU AI Act risk-tier classification and conformity | TypeScript | original | 2026-07-03 |
-| [`access-recert-campaign-runner`](https://github.com/The-Thought-Magician/access-recert-campaign-runner) | Run the periodic user-access review auditors demand as a real campaign with line-by-line attestation and proven revocation | TypeScript | original | 2026-07-03 |
 | [`foodpaaji`](https://github.com/The-Thought-Magician/foodpaaji) · [live](https://foodpaaji.vercel.app) | A restraunt management system with complete package. | TypeScript | original | 2026-06-21 |
 | [`music-gen-lib`](https://github.com/The-Thought-Magician/music-gen-lib) ⭐3 | — | Python | original | 2026-05-30 |
 | [`convaix-app`](https://github.com/The-Thought-Magician/convaix-app) | — | Python | original | 2026-05-12 |
